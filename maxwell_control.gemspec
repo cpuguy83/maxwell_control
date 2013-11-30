@@ -5,7 +5,7 @@ require 'maxwell/control/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "maxwell_control"
-  spec.version       = MaxwellControl::VERSION
+  spec.version       = Maxwell::Control::VERSION
   spec.authors       = ["Brian Goff"]
   spec.email         = ["cpuguy83@gmail.com"]
   spec.description   = %q{Maxwell Control}
